@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crack Detection Web Application
 
 This is a Flask-based web application for detecting cracks in images using a Convolutional Neural Network (CNN) model. Users can upload images, and the app will analyze them to determine whether cracks are present.
@@ -74,3 +75,6 @@ This is a Flask-based web application for detecting cracks in images using a Con
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# Concrete-Wall-Crack-Detection
+>>>>>>> 595d7ce75f33d1b951c909e03e60e06ae0c80555
