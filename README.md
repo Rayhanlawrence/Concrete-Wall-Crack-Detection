@@ -77,7 +77,7 @@ This is a Flask-based web application for detecting cracks in images using a Con
 https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
 
 #Demo Result
-A brief demonstration of the Concrete Wall Crack Prediction interface built with Flask:
+A brief demonstration of the Concrete Wall Crack Detection interface built with Flask:
 
 https://github.com/user-attachments/assets/fa5fd624-23f3-47f6-a510-694260ae526a
 
