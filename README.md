@@ -72,9 +72,6 @@ This is a Flask-based web application for detecting cracks in images using a Con
 - Pillow (PIL)
 - HTML/CSS
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 =======
 # Dataset
 https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
